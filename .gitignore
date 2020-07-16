@@ -1,0 +1,7 @@
+**/__Previews/
+**/History/
+**/Project Logs for LED_Cube/
+**/Project Outputs for Free Documents/
+**/Project Outputs for LED_Cube/
+*.PcbLib
+Signal Integrity Tests Report.txt
